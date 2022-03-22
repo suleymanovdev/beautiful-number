@@ -15,12 +15,13 @@ Example In the example there are such beautiful numbers as 13, 18, 3451 and so o
 
 The time limit is 1 second. The memory usage limit is 128 MiB.
 
-Input # <br>
-2 2 <br>
-1 4 <br>
-8 3 <br>
-Output # <br>
-13 <br>
+Input #
+2 2
+1 4
+8 3
+Output #
+13
+
 Enjoy :3
 
 March 22, 2022
