@@ -1,4 +1,6 @@
-# Beautiful Number
+beautiful-number
+================
+
 Beautiful Number You are given two sets of non-zero digits.
 
 In decimal notation, we call a positive integer beautiful if it contains at least one digit from each of these sets.
@@ -19,3 +21,6 @@ Input # <br>
 8 3 <br>
 Output # <br>
 13 <br>
+Enjoy :3
+
+March 22, 2022
