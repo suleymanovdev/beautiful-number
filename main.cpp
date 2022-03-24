@@ -28,6 +28,7 @@ int main() {
                 continue;
             }
         }
+
         for (int j = 1; j < M; j++) {
             if (rmin > r[j]) {
                 rmin = r[j];
