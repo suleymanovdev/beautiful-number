@@ -1,25 +1,25 @@
-beautiful-number
-================
+Project Name: beautiful-number |
+_______________________________|
 
-Beautiful Number You are given two sets of non-zero digits.
-In decimal notation, we call a positive integer beautiful if it contains at least one digit from each of these sets.
-Find the smallest beautiful number.
-Input The first line contains two integers n and m (1 ≤ n, m ≤ 9) - the sizes of the first and second sets.
-The second line contains n different digits d1, d2, ..., dn.
-The third line contains m distinct digits r1, r2, ..., rm (1 ≤ di, ri ≤ 9).
-Output Output the smallest beautiful number.
-Example In the example there are such beautiful numbers as 13, 18, 3451 and so on.
-The smallest of them is 13.
-The time limit is 1 second. The memory usage limit is 128 MiB.
+About Project:
+  Beautiful Number You are given two sets of non-zero digits.
+  In decimal notation, we call a positive integer beautiful if it contains at least one digit from each of these sets.
+  Find the smallest beautiful number.
+  Input The first line contains two integers n and m (1 ≤ n, m ≤ 9) - the sizes of the first and second sets.
+  The second line contains n different digits d1, d2, ..., dn.
+  The third line contains m distinct digits r1, r2, ..., rm (1 ≤ di, ri ≤ 9).
+  Output Output the smallest beautiful number.
+  Example In the example there are such beautiful numbers as 13, 18, 3451 and so on.
+  The smallest of them is 13.
+  The time limit is 1 second. The memory usage limit is 128 MiB.
 
-Input #
-2 2
-1 4
-8 3
-Output #
-13
+Usage Example:
+  Input #
+  2 2
+  1 4
+  8 3
+  Output #
+  13
 
-Enjoy :3
-
-March 22, 2022
-Azerbaijan Semi-Final.
+Competition:
+  Azerbaijan Semi-Final.
